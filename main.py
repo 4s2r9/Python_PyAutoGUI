@@ -9,7 +9,6 @@ zoomURL = ["zoomURL",
            "zoomURL",
            "zoomURL",
            ]
-# pyautogui.moveTo(1640, 1050)
 
 while True:
     if keyboard.read_key() == "1":
