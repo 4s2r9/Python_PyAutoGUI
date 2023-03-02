@@ -1,6 +1,5 @@
 import pyautogui
 import keyboard
-import time
 import webbrowser
 
 zoomURL = ["zoomURL",
